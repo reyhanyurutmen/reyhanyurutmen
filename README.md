@@ -20,10 +20,10 @@
 
 ## 🌈 About Me
 
-- 🎓 Industrial Engineering student in Germany  
-- 💻 Building at the intersection of **AI, Web3 & digital products**  
-- ✨ Curious about startups, tech and creative ideas  
-- 🚀 Learning by building real projects  
+Industrial Engineering student in Germany  
+Building at the intersection of **AI, Web3 & digital products**  
+Curious about startups, tech and creative ideas  
+Learning by building real projects  
 
 ---
 
@@ -32,9 +32,9 @@
 ### EventMint AI
 A colorful digital badge generator for events and collectible experiences
 
-- Generate personalized event badges  
-- Download PNG  
-- Export NFT-style metadata JSON  
+Generate personalized event badges  
+Download PNG  
+Export NFT-style metadata JSON  
 
 ---
 
